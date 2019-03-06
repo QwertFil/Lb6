@@ -21,7 +21,8 @@ namespace Curs
         }
         static public string Operatia_AND(string peremen1, string peremen3)
         {
-          
+            int z = Convert.ToInt32(peremen1) & Convert.ToInt32(peremen3);
+            return Convert.ToString(z);
         }
         static public string Operatia(string peremen1, string peremen2, string peremen3)
         {
@@ -70,11 +71,11 @@ namespace Curs
                     y = Convert.ToInt32(peremen3);
                     z = 0;
                     znak = peremen2;
-                    
-                   
+                    if (znak == "|") result = Operatia_OR(peremen1, peremen3);
+                    else
                     if (znak == "^") result = Operatia_XOR(peremen1, peremen3);
-                    
-                    
+                    else
+                    if (znak == "&") result = Operatia_AND(peremen1, peremen3);
                 }
                 else
                 {

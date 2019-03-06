@@ -55,3 +55,6 @@ E:\6 семестр\Инструментальные средства разра
 E:\6 семестр\Инструментальные средства разработки ПО\Lb6\Curs\Curs\obj\Debug\Curs.csproj.CoreCompileInputs.cache
 E:\6 семестр\Инструментальные средства разработки ПО\Lb6\Curs\Curs\obj\Debug\Curs.exe
 E:\6 семестр\Инструментальные средства разработки ПО\Lb6\Curs\Curs\obj\Debug\Curs.pdb
+E:\6 семестр\Инструментальные средства разработки ПО\Lb6\Curs\Curs\bin\Debug\Curs.exe.config
+E:\6 семестр\Инструментальные средства разработки ПО\Lb6\Curs\Curs\bin\Debug\Curs.exe
+E:\6 семестр\Инструментальные средства разработки ПО\Lb6\Curs\Curs\bin\Debug\Curs.pdb
