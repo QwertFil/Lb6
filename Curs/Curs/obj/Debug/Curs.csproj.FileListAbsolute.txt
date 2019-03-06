@@ -48,3 +48,10 @@ I:\6 семестр\Технология разработки программн
 I:\6 семестр\Технология разработки программного обеспечения\Курсовая\Curs\Curs\obj\Debug\Curs.csproj.CoreCompileInputs.cache
 I:\6 семестр\Технология разработки программного обеспечения\Курсовая\Curs\Curs\obj\Debug\Curs.exe
 I:\6 семестр\Технология разработки программного обеспечения\Курсовая\Curs\Curs\obj\Debug\Curs.pdb
+E:\6 семестр\Инструментальные средства разработки ПО\Lb6\Curs\Curs\obj\Debug\Curs.csprojAssemblyReference.cache
+E:\6 семестр\Инструментальные средства разработки ПО\Lb6\Curs\Curs\obj\Debug\Curs.Form1.resources
+E:\6 семестр\Инструментальные средства разработки ПО\Lb6\Curs\Curs\obj\Debug\Curs.Properties.Resources.resources
+E:\6 семестр\Инструментальные средства разработки ПО\Lb6\Curs\Curs\obj\Debug\Curs.csproj.GenerateResource.cache
+E:\6 семестр\Инструментальные средства разработки ПО\Lb6\Curs\Curs\obj\Debug\Curs.csproj.CoreCompileInputs.cache
+E:\6 семестр\Инструментальные средства разработки ПО\Lb6\Curs\Curs\obj\Debug\Curs.exe
+E:\6 семестр\Инструментальные средства разработки ПО\Lb6\Curs\Curs\obj\Debug\Curs.pdb

@@ -22,7 +22,10 @@ namespace Curs
         }
         private void button2_Click(object sender, EventArgs e)
         {
-          
+            textBox1.Text = "";
+            textBox2.Text = "";
+            textBox3.Text = "";
+            textBox4.Text = "";
         }
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
