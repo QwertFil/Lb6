@@ -16,7 +16,8 @@ namespace Curs
         }
         static public string Operatia_OR(string peremen1, string peremen3)
         {
-           
+            int z = Convert.ToInt32(peremen1) | Convert.ToInt32(peremen3);
+            return Convert.ToString(z);
         }
         static public string Operatia_AND(string peremen1, string peremen3)
         {

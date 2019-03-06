@@ -30,7 +30,8 @@ namespace Curs
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
-       
-           }              
+            int i = Convert.ToInt32(textBox4.Text);
+            textBox4.Text = Convert.ToString(i, 2);
+        }              
         }
     }
